@@ -1,0 +1,7 @@
+numpy
+pandas
+seaborn
+keras
+mat4py
+matplotlib==3.5.2
+tensorflow==2.11.0
